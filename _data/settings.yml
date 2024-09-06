@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Home',     url: ''}
-- {name: 'Posts',    url: 'posts'}
+- {name: 'Posts',    url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
