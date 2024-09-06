@@ -4,6 +4,12 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Taz Solace
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Taz Solace (they/them) is a colourful, queer creative and community organizer who sometimes crafts under the shop moniker the Lunar Garden. A multidisciplinary artist, singer-songwriter, poet, D.I.Y. crafter, upcycler (especially textiles), web/graphic designer, and gardener, Taz explores many passions through their queer and neurodivergent lens. They dream of rad, kinder futures, thriving nourishing communities, plants, colours, magic, rainbows and cats.
+
+Taz is an immunocompromised, neurodivergent disabled person of Quebecois and Doukhobor descent. They live on the unceded lands of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and Sel̓íl̓witulh (Tsleil-Waututh) Nations.
+
+Follow them throughout the internet at @TazSolace (https://linktr.ee/tazsolace) and you can reach out to them about collaborations including upcycled art, content creation, music, sharing resources with local queer & trans artists, and hiring them for design work.
+
+One of their current projects includes curating a monthly micro gallery at Cross & Crows Books, a queer-run bookshop at 2836 Commercial Drive in East Van, featuring mask-mandatory art, poetry and storytelling events.
