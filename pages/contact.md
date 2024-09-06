@@ -6,4 +6,5 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+Find all my current links at https://linktr.ee/tazsolace
+Best way to message me is via @TazSolace on Instagram
