@@ -9,4 +9,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 title: "Taz Solace"
 description: "Taz Solace - Coming Soon"
-author:      "Taz Solace"
+author: "Taz Solace"
